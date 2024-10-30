@@ -1,6 +1,9 @@
 Now I am a student studying about various programs. What I'm interested in is doing. Various websites and learning how to be Frontend Development are listed here.
+
+
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 <br><br>
+
 <a href="https://www.github.com/Sunnyday-Spring" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Sunnyday-Spring?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
