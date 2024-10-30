@@ -1,3 +1,5 @@
+Now I am a student studying about various programs. What I'm interested in is doing. Various websites and learning how to be Frontend Development are listed here.
+
 ### Skills
 
 
